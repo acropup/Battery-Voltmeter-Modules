@@ -1,5 +1,6 @@
 Battery Voltmeter Modules
 ===
+These LCD modules display the battery charge level and voltage of a variety of battery chemistries and voltages. I have compiled this list because many of these modules are inexpensive and available from many sources, but few sources name them by the manufacturer's part number, making it hard to search for and compare different products. Feel free to contact me with any corrections or additions to this list.
 
 Many support lead-acid, lithium ion (Li-on), and lithium iron-phosphate (LiFePO<sub>4</sub>) chemistries, with cell series arrangements up to ~65V, meaning up to 4-series for lead-acid (48V nominal, 56.4V full), and 15-series for Li-ion (56V nominal, 63V full). Parallel cell arrangements only affect capacity, not voltage, so these will work with any number of parallel cells. These meters only measure voltage, and infer charge level from the current voltage. They have no sense of absolute capacity, nor rate of discharge; they can only tell you what percentage of full capacity the battery is at.
 
