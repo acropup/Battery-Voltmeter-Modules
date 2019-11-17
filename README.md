@@ -4,10 +4,10 @@ These LCD modules display the battery charge level and voltage of a variety of b
 
 Many support lead-acid, lithium ion (Li-on), and lithium iron-phosphate (LiFePO<sub>4</sub>) chemistries, with cell series arrangements up to ~65V, meaning up to 4-series for lead-acid (48V nominal, 56.4V full), and 15-series for Li-ion (56V nominal, 63V full). Parallel cell arrangements only affect capacity, not voltage, so these will work with any number of parallel cells. These meters only measure voltage, and infer charge level from the current voltage. They have no sense of absolute capacity, nor rate of discharge; they can only tell you what percentage of full capacity the battery is at.
 
-Manufacturers:
-Shanghai Baiway Electronic Co. - [Wholesale site on Alibaba](https://baiway.en.alibaba.com/)
-GuYu ************ find info ***************
-
+## Manufacturers
+- Shanghai Baiway Electronic Co. - [Wholesale site on Alibaba](https://baiway.en.alibaba.com/)
+- GuYu - Haven't found a direct manufacturer website
+## Battery Voltmeter Modules
 | Product Code | Panel Mount | Buttons | Battery Indicator| Numeric Readout | Dimensions | Sleep |
 |--|--|--|--|--|--|--|
 | [BW-LY4](https://www.alibaba.com/product-detail/BW-LY4-12V-24V-36V-48V_60746057759.html) | Flush | 1 front, 2 back | 7 segments | V/% Toggle | 59x27x17mm | Off after 10s, probably |
@@ -78,56 +78,66 @@ GuYu ************ find info ***************
 
 
 Photos
-------
-### BW-LY4
+===
+
+## BW-LY4
 ![BW-LY4][BW-LY4]
 ![BW-LY4 Dimensions][BW-LY4 Dimensions]
 ![BW-LY4 Panel Dimensions][BW-LY4 Panel Dimensions]
-### BW-LY5
+
+## BW-LY5
 ![BW-LY5][BW-LY5]
 ![BW-LY5 Dimensions][BW-LY5 Dimensions]
 ![BW-LY5 Panel Dimensions][BW-LY5 Panel Dimensions]
-### BW-LY6N
+
+## BW-LY6N
 ![BW-LY6N][BW-LY6N]
 ![BW-LY6N Dimensions][BW-LY6N Dimensions]
-### BW-LY6W
+
+## BW-LY6W
 ![BW-LY6W][BW-LY6W]
 ![BW-LY6W Dimensions][BW-LY6W Dimensions]
-### BW-LY7S
+
+## BW-LY7S
 ![BW-LY7S][BW-LY7S]
 ![BW-LY7S Dimensions][BW-LY7S Dimensions]
 ![BW-LY7S Panel Dimensions][BW-LY7S Panel Dimensions]
-### BW-TH01
+
+## BW-TH01
 ![BW-TH01][BW-TH01]
 ![BW-TH01 Panel Dimensions][BW-TH01 Panel Dimensions]
-### GY-6
+
+## GY-6
 ![GY-6][GY-6]
 ![GY-6 Dimensions][GY-6 Dimensions]
-### GY-6D
+
+## GY-6D
 ![GY-6D][GY-6D]
-### GY-6S
+![GY-6S GY-6D Dimensions][GY-6S GY-6D Dimensions]
+
+## GY-6S
 ![GY-6S][GY-6S]
 ![GY-6S GY-6D Dimensions][GY-6S GY-6D Dimensions]
 
 
 
-[BW-LY4]:	./photos/BW-LY4.jpg "BW-LY4"
-[BW-LY4 Dimensions]:	./photos/BW-LY4 Dimensions.jpg "BW-LY4 Dimensions"
-[BW-LY4 Panel Dimensions]:	./photos/BW-LY4 Panel Dimensions.jpg "BW-LY4 Panel Dimensions"
-[BW-LY5]:	./photos/BW-LY5.jpg "BW-LY5"
-[BW-LY5 Dimensions]:	./photos/BW-LY5 Dimensions.jpg "BW-LY5 Dimensions"
-[BW-LY5 Panel Dimensions]:	./photos/BW-LY5 Panel Dimensions.jpg "BW-LY5 Panel Dimensions"
-[BW-LY6N]:	./photos/BW-LY6N.jpg "BW-LY6N"
-[BW-LY6N Dimensions]:	./photos/BW-LY6N Dimensions.jpg "BW-LY6N Dimensions"
-[BW-LY6W]:	./photos/BW-LY6W.jpg "BW-LY6W"
-[BW-LY6W Dimensions]:	./photos/BW-LY6W Dimensions.jpg "BW-LY6W Dimensions"
-[BW-LY7S]:	./photos/BW-LY7S.jpg "BW-LY7S"
-[BW-LY7S Dimensions]:	./photos/BW-LY7S Dimensions.jpg "BW-LY7S Dimensions"
-[BW-LY7S Panel Dimensions]:	./photos/BW-LY7S Panel Dimensions.jpg "BW-LY7S Panel Dimensions"
-[BW-TH01]:	./photos/BW-TH01.jpg "BW-TH01"
-[BW-TH01 Panel Dimensions]:	./photos/BW-TH01 Panel Dimensions.jpg "BW-TH01 Panel Dimensions"
-[GY-6]:	./photos/GY-6.jpg "GY-6"
-[GY-6 Dimensions]:	./photos/GY-6 Dimensions.jpg "GY-6 Dimensions"
-[GY-6D]:	./photos/GY-6D.jpg "GY-6D"
-[GY-6S]:	./photos/GY-6S.jpg "GY-6S"
-[GY-6S GY-6D Dimensions]:	./photos/GY-6S GY-6D Dimensions.jpg "GY-6S GY-6D Dimensions"
+[BW-LY4]:	photos/BW-LY4.jpg "BW-LY4"
+[BW-LY4 Dimensions]:	photos/BW-LY4&#32;Dimensions.jpg "BW-LY4 Dimensions"
+[BW-LY4 Panel Dimensions]:	photos/BW-LY4&#32;Panel&#32;Dimensions.jpg "BW-LY4 Panel Dimensions"
+[BW-LY5]:	photos/BW-LY5.jpg "BW-LY5"
+[BW-LY5 Dimensions]:	photos/BW-LY5&#32;Dimensions.jpg "BW-LY5 Dimensions"
+[BW-LY5 Panel Dimensions]:	photos/BW-LY5&#32;Panel&#32;Dimensions.jpg "BW-LY5 Panel Dimensions"
+[BW-LY6N]:	photos/BW-LY6N.jpg "BW-LY6N"
+[BW-LY6N Dimensions]:	photos/BW-LY6N&#32;Dimensions.jpg "BW-LY6N Dimensions"
+[BW-LY6W]:	photos/BW-LY6W.jpg "BW-LY6W"
+[BW-LY6W Dimensions]:	photos/BW-LY6W&#32;Dimensions.jpg "BW-LY6W Dimensions"
+[BW-LY7S]:	photos/BW-LY7S.jpg "BW-LY7S"
+[BW-LY7S Dimensions]:	photos/BW-LY7S&#32;Dimensions.jpg "BW-LY7S Dimensions"
+[BW-LY7S Panel Dimensions]:	photos/BW-LY7S&#32;Panel&#32;Dimensions.jpg "BW-LY7S Panel Dimensions"
+[BW-TH01]:	photos/BW-TH01.jpg "BW-TH01"
+[BW-TH01 Panel Dimensions]:	photos/BW-TH01&#32;Panel&#32;Dimensions.jpg "BW-TH01 Panel Dimensions"
+[GY-6]:	photos/GY-6.jpg "GY-6"
+[GY-6 Dimensions]:	photos/GY-6&#32;Dimensions.jpg "GY-6 Dimensions"
+[GY-6D]:	photos/GY-6D.jpg "GY-6D"
+[GY-6S]:	photos/GY-6S.jpg "GY-6S"
+[GY-6S GY-6D Dimensions]:	photos/GY-6S&#32;GY-6D&#32;Dimensions.jpg "GY-6S GY-6D Dimensions"
