@@ -11,16 +11,18 @@ Many support lead-acid, lithium ion (Li-on), and lithium iron-phosphate (LiFePO<
 | Product Code | Panel Mount | Buttons | Battery Indicator| Numeric Readout | Dimensions | Sleep |
 |--|--|--|--|--|--|--|
 | [BW-LY4](https://www.alibaba.com/product-detail/BW-LY4-12V-24V-36V-48V_60746057759.html) | Flush | 1 front, 2 back | 7 segments | V/% Toggle | 59x27x17mm | Off after 10s, probably |
-| [BW-LY5](https://www.alibaba.com/product-detail/BW-LY5-12V-24V-36V-48V_60744527128.html) | Flush | 1 front*, 2 back | 7 segments | V/% Toggle? | 59x38x16.5mm | Configurable* |
+| [BW-LY5](https://www.alibaba.com/product-detail/BW-LY5-12V-24V-36V-48V_60744527128.html) | Flush | 1 front*, 2 back | 7 segments | V/% Toggle? | 59x38x16.5mm | Configurable * |
 | [BW-LY6N](https://www.alibaba.com/product-detail/BW-LY6N-battery-indicator-battery-level_60607201435.html) | Flush | 1 back | 5 segments | % | 57.5x20x16.5mm | Always on |
 | [BW-LY6W](https://www.alibaba.com/product-detail/BW-LY6W-12V-24V-battery-monitor_60606812103.html) | Bezel | 1 back | 5 segments | % | 60x23x15mm | Always on |
-| [BW-LY7S](https://www.alibaba.com/product-detail/BW-LY7S-12V-24V-36V-48V_60746399433.html) | Bezel | 1 front, 2 back | 5 segments | V/% Toggle | 57x30x12.8mm | Configurable: Always On / Off after 10s |
+| [BW-LY7](https://www.alibaba.com/product-detail/BW-LY7-battery-tester-battery-indicator_60707473956.html) ** | Bezel | 1 front, 2 back | 5 segments | V/% Toggle | 57x30x12.8mm | Configurable: Always On / Off after 10s |
+| [BW-LY7S](https://www.alibaba.com/product-detail/BW-LY7S-12V-24V-36V-48V_60746399433.html) ** | Bezel | 1 front, 2 back | 5 segments | V/% Toggle | 57x30x12.8mm | Configurable: Always On / Off after 10s |
 | [BW-TH01](https://www.alibaba.com/product-detail/BW-TH01-12V-24V-36V-48V_60777356053.html) | Flush | 1 back | 5 segments | % | 48x25x16mm | ??? |
 | [GY-6S](https://www.aliexpress.com/item/32869769105.html) | Bezel | 2 front | 7 segments | V/% Toggle | 61.3x33.3x13.5mm |
 | [GY-6D](https://www.aliexpress.com/item/32870256190.html) | Bezel | 1 front, 1 back | 7 segments | V/% Toggle | 61.3x33.3x13.5mm |
 | [GY-6](https://www.banggood.com/GY-6-Y6-12V-24V-36V-48V-Lead-Acid-Battery-2-15S-Lithium-Battery-Universal-Adjustable-6-65V-Green-Screen-Waterproof-LCD-Capacity-Display-Board-Indicator-Digital-Voltmeter-p-1231917.html?cur_warehouse=CN) | Flush | 2 back | 7 segments | V/% | 61.3x33.3x13.5mm |
 
-**BW-LY5 comes in two styles. Model without button, backlight is always on. Model with button, you can adjust backlight sleep function, backlight trigger, and voltage/percent display.*
+**BW-LY5 comes in two styles. Model without button, backlight is always on. Model with button, you can adjust backlight sleep function, backlight trigger, and voltage/percent display.*  
+***BW-LY7 LCD is green-on-black, whereas BW-LY7S is black-on-green.*
 
 ---
 ### Lead-acid voltages based on 12 volt 6-cell batteries
@@ -98,10 +100,16 @@ Photos
 ![BW-LY6W][BW-LY6W]
 ![BW-LY6W Dimensions][BW-LY6W Dimensions]
 
+## BW-LY7
+![BW-LY7][BW-LY7]
+![BW-LY7 Dimensions][BW-LY7 Dimensions]
+![BW-LY7 BW-LY7S Panel Dimensions][BW-LY7 BW-LY7S Panel Dimensions]
+
 ## BW-LY7S
+**BW-LY7 and BW-LY7S are identical except the LCD colours are inverted* \
 ![BW-LY7S][BW-LY7S]
 ![BW-LY7S Dimensions][BW-LY7S Dimensions]
-![BW-LY7S Panel Dimensions][BW-LY7S Panel Dimensions]
+![BW-LY7 BW-LY7S Panel Dimensions][BW-LY7 BW-LY7S Panel Dimensions]
 
 ## BW-TH01
 ![BW-TH01][BW-TH01]
@@ -131,9 +139,11 @@ Photos
 [BW-LY6N Dimensions]:	photos/BW-LY6N&#32;Dimensions.jpg "BW-LY6N Dimensions"
 [BW-LY6W]:	photos/BW-LY6W.jpg "BW-LY6W"
 [BW-LY6W Dimensions]:	photos/BW-LY6W&#32;Dimensions.jpg "BW-LY6W Dimensions"
+[BW-LY7]:	photos/BW-LY7.jpg "BW-LY7"
+[BW-LY7 BW-LY7S Panel Dimensions]:	photos/BW-LY7&#32;BW-LY7S&#32;Panel&#32;Dimensions.jpg "BW-LY7 BW-LY7S Panel Dimensions"
+[BW-LY7 Dimensions]:	photos/BW-LY7&#32;Dimensions.jpg "BW-LY7 Dimensions"
 [BW-LY7S]:	photos/BW-LY7S.jpg "BW-LY7S"
 [BW-LY7S Dimensions]:	photos/BW-LY7S&#32;Dimensions.jpg "BW-LY7S Dimensions"
-[BW-LY7S Panel Dimensions]:	photos/BW-LY7S&#32;Panel&#32;Dimensions.jpg "BW-LY7S Panel Dimensions"
 [BW-TH01]:	photos/BW-TH01.jpg "BW-TH01"
 [BW-TH01 Panel Dimensions]:	photos/BW-TH01&#32;Panel&#32;Dimensions.jpg "BW-TH01 Panel Dimensions"
 [GY-6]:	photos/GY-6.jpg "GY-6"
