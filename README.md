@@ -5,8 +5,8 @@ These LCD modules display the battery charge level and voltage of a variety of b
 Many support lead-acid, lithium ion (Li-on), and lithium iron-phosphate (LiFePO<sub>4</sub>) chemistries, with cell series arrangements up to ~65V, meaning up to 4-series for lead-acid (48V nominal, 56.4V full), and 15-series for Li-ion (56V nominal, 63V full). Parallel cell arrangements only affect capacity, not voltage, so these will work with any number of parallel cells. These meters only measure voltage, and infer charge level from the current voltage. They have no sense of absolute capacity, nor rate of discharge; they can only tell you what percentage of full capacity the battery is at.
 
 ## Manufacturers
-- Shanghai Baiway Electronic Co. - [Wholesale site on Alibaba](https://baiway.en.alibaba.com/)
-- GuYu - Haven't found a direct manufacturer website
+- **Shanghai Baiway Electronic Co.** - [Wholesale site on Alibaba](https://baiway.en.alibaba.com/)
+- **GuYu** - Haven't found a direct manufacturer website
 ## Battery Voltmeter Modules
 | Product Code | Panel Mount | Buttons | Battery Indicator| Numeric Readout | Dimensions | Sleep |
 |--|--|--|--|--|--|--|
